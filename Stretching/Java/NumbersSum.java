@@ -1,4 +1,4 @@
-package A_stretching;
+package Stretching.Java;
 
 class NumbersSum {
     public static void main(String[] args) throws IOException {

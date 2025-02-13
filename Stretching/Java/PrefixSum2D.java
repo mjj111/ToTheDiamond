@@ -1,4 +1,4 @@
-package A_stretching;
+package Stretching.Java;
 
 class PrefixSum2D {
     private static int[][] prefixSum;
