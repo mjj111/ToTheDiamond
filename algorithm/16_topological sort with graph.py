@@ -1,5 +1,7 @@
 '''
 백준 1948 번 임계경로
+본인에 대한 indegree를 만들어서 0이되면 queue에 넣는다.
+접근할 경우 본인이 바라보고 있는 노드에 indegree를 줄여준다.
 '''
 import sys
 from collections import deque
