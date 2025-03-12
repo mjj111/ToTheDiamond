@@ -1,8 +1,9 @@
-# ToTheDiamond
-백준 다이아 티어를 목표로 알고리즘을 공부합니다.
+# **ToTheDiamond💎**
++ 백준 다이아 티어를 목표로 알고리즘을 공부합니다.
++ 리트코드를 사용하여 취업용 코딩 테스트 준비 중입니다.
 
-- 2024.12.04 플레티넘 5
-- 2024.12.24 플레티넘 4 
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
