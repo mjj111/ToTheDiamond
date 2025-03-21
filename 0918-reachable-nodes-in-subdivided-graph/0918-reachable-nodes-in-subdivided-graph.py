@@ -10,7 +10,7 @@ class Solution:
             graph[v][u] = w
 
         pq = [(-maxMoves, 0)]  # (남은 이동 횟수, 현재 노드)
-        dist = {}  # 최단 경로 저장 (노드별 최대 이동 가능 거리)
+        dist = defaultdict(int)  # 최단 경로 저장 (노드별 최대 이동 가능 거리)
 
         while pq:
             moves, node = heapq.heappop(pq)
@@ -31,8 +31,8 @@ class Solution:
         reachable_nodes = len(dist)  
 
         for u, v, w in edges:
-            moves_from_u = dist.get(u, 0)
-            moves_from_v = dist.get(v, 0)
+            moves_from_u = dist[u]
+            moves_from_v = dist[v]
             reachable_nodes += min(w, moves_from_u + moves_from_v)
 
         return reachable_nodes
