@@ -1,5 +1,6 @@
 import heapq
 from collections import defaultdict
+from typing import List
 
 class Solution:
     def reachableNodes(self, edges: List[List[int]], maxMoves: int, n: int) -> int:
