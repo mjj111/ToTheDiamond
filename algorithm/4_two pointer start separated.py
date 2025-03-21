@@ -22,7 +22,7 @@ while -1 < start < end < n :
   s = numbers[start] + numbers[end]
 
   if s == m:
-    start -= 1
+    start += 1
     end -= 1
     answer += 1
 

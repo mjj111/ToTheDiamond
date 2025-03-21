@@ -2,7 +2,7 @@
 백준 11049 번 행렬 곱셈 순서
 '''
 n = int(input())
-matrix = [tuple(map(int, input().split())) for _ in range(n)]
+matrix = [list(map(int, input().split())) for _ in range(n)]
 
 INF = float('inf')
 dp = [[INF] * n for _ in range(n)]

@@ -8,13 +8,14 @@ distance를 만들고, 거리와 비용을 비교해서 갱신한다.
 
 '''
 import sys
-import heapq
+from heapq import heappush, heappop
 input = sys.stdin.readline
 
 N, M, K = map(int, input().split())
 W = [[] for _ in range(N + 1)]
 
-distance = [[sys.maxsize] * K for _ in range(N+1)]
+INF = float('inf')
+distance = [[INF] * K for _ in range(N+1)]
 
 for _ in range(M):
   a, b, c = map(int, input().split())
@@ -24,7 +25,7 @@ pq = [(0, 1)]
 distance[1][0] = 0
 
 while pq:
-  cost, node = heapq.heappop(pq)
+  cost, node = heappop(pq)
 
   for nNode, nCost in W[node]:
     sCost = cost + nCost
@@ -32,10 +33,10 @@ while pq:
     if distance[nNode][K-1] > sCost:
       distance[nNode][K-1] = sCost
       distance[nNode].sort()
-      heapq.heappush(pq, [sCost, nNode])
+      heappush(pq, [sCost, nNode])
 
 for i in range(1, N+1):
-  if distance[i][K-1] == sys.maxsize:
+  if distance[i][K-1] == INF:
     print(-1)
   else:
     print(distance[i][K-1])

@@ -11,6 +11,16 @@
 
 '''
 
+def get_c(mid) :
+  total = 0
+  count = 1
+  for t in time:
+    if total + t > mid:
+      count += 1
+      total = 0
+    total += t
+  return count
+
 n, m = map(int,input().split())
 time = list(map(int,input().split()))
 
@@ -19,19 +29,18 @@ end = sum(time)
 
 while start <= end:
   mid = (start + end) // 2
+  count = get_c(mid)
 
-  total = 0
-  count = 1
-  for t in time:
-    if total + t > mid:
-      count += 1
-      total = 0
-    total += t
-
+  #최소 값을 구할 때
   if count <= m:
-    ans = mid
     end = mid - 1
   else:
     start = mid + 1
 
-print(ans)
+  # #최대 값을 구할 때
+  # if count >= m:
+  #   start = mid + 1
+  # else:
+  #   end = mid - 1
+  # # print(end)
+print(start)
