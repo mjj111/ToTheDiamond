@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
 ## Linked List
 |  |
@@ -29,10 +30,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/mjj111/ToTheDiamond/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
