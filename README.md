@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
 ## Linked List
@@ -63,5 +64,6 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
