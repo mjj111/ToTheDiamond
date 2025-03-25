@@ -66,4 +66,20 @@
 | ------- |
 | [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
