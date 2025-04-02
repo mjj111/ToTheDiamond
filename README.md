@@ -10,11 +10,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
 ## String
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
