@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
 ## Hash Table
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 ## Graph
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Tree
 |  |
