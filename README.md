@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
+| [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
@@ -109,6 +110,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Two Pointers
 |  |
