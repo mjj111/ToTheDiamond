@@ -13,6 +13,7 @@
 | [0039-combination-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/mjj111/ToTheDiamond/tree/master/0273-integer-to-english-words) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
