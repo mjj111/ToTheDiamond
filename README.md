@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mjj111/ToTheDiamond/tree/master/0007-reverse-integer) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/mjj111/ToTheDiamond/tree/master/0273-integer-to-english-words) |
 ## Recursion
