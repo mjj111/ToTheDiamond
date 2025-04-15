@@ -18,6 +18,7 @@
 | [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/mjj111/ToTheDiamond/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
@@ -120,6 +121,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mjj111/ToTheDiamond/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Greedy
