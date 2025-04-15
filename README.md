@@ -17,6 +17,7 @@
 | [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
@@ -144,6 +146,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
