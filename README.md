@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
