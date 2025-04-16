@@ -111,6 +111,7 @@
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Tree
@@ -179,4 +180,5 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
