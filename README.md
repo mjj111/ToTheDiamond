@@ -49,6 +49,7 @@
 | [0273-integer-to-english-words](https://github.com/mjj111/ToTheDiamond/tree/master/0273-integer-to-english-words) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
+| [1250-longest-common-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Tree
