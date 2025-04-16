@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mjj111/ToTheDiamond/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 | [0965-unique-email-addresses](https://github.com/mjj111/ToTheDiamond/tree/master/0965-unique-email-addresses) |
@@ -80,6 +81,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/0300-longest-increasing-subsequence) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Divide and Conquer
 |  |
@@ -114,6 +116,7 @@
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/mjj111/ToTheDiamond/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
