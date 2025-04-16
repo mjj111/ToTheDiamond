@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/mjj111/ToTheDiamond/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mjj111/ToTheDiamond/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
 ## Tree
