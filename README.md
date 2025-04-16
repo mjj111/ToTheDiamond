@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mjj111/ToTheDiamond/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/mjj111/ToTheDiamond/tree/master/0273-integer-to-english-words) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mjj111/ToTheDiamond/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -183,4 +185,8 @@
 | [0191-number-of-1-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
