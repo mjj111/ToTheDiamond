@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mjj111/ToTheDiamond/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mjj111/ToTheDiamond/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [2530-minimize-maximum-of-array](https://github.com/mjj111/ToTheDiamond/tree/master/2530-minimize-maximum-of-array) |
