@@ -1,3 +1,6 @@
+# 쇠막대기
+# https://www.acmicpc.net/problem/10799
+
 import bisect
 
 stack = []
