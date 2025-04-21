@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/mjj111/ToTheDiamond/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
