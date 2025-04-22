@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mjj111/ToTheDiamond/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0191-number-of-1-bits) |
@@ -102,6 +104,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/mjj111/ToTheDiamond/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 ## Shortest Path
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
