@@ -34,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mjj111/ToTheDiamond/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mjj111/ToTheDiamond/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/mjj111/ToTheDiamond/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mjj111/ToTheDiamond/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mjj111/ToTheDiamond/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/mjj111/ToTheDiamond/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/mjj111/ToTheDiamond/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/mjj111/ToTheDiamond/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mjj111/ToTheDiamond/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
@@ -54,12 +57,14 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mjj111/ToTheDiamond/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mjj111/ToTheDiamond/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/mjj111/ToTheDiamond/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/mjj111/ToTheDiamond/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/mjj111/ToTheDiamond/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/mjj111/ToTheDiamond/tree/master/0268-missing-number) |
@@ -88,6 +93,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mjj111/ToTheDiamond/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mjj111/ToTheDiamond/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mjj111/ToTheDiamond/tree/master/0191-number-of-1-bits) |
@@ -98,6 +104,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 | [0692-top-k-frequent-words](https://github.com/mjj111/ToTheDiamond/tree/master/0692-top-k-frequent-words) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/mjj111/ToTheDiamond/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 ## Shortest Path
@@ -194,4 +201,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mjj111/ToTheDiamond/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/mjj111/ToTheDiamond/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
