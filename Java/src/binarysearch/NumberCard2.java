@@ -21,31 +21,22 @@ public class NumberCard2 {
     StringBuilder sb = new StringBuilder();
     for (int i = 0; i < M; i++) {
       int target = Integer.parseInt(st.nextToken());
-      int count = bound(cards, target, false) - bound(cards, target, true);
+      int count = findBound(cards, target, false) - findBound(cards, target, true);
       sb.append(count).append(" ");
     }
 
     System.out.println(sb);
   }
 
-  private static int bound(int[] arr, int target, boolean isLower) {
+  private static int findBound(int[] nums, int target, boolean isLower) {
     int start = 0;
-    int end = arr.length;
+    int end = nums.length;
 
     while (start < end) {
       int mid = (start + end) / 2;
-
-      if (isLower) {
-        if (target <= arr[mid]) end = mid;
-        else start = mid + 1;
-      }
-
-      else {//upper
-        if (target >= arr[mid]) start = mid + 1;
-        else end = mid;
-      }
+      if (nums[mid] > target || (isLower && nums[mid] == target)) end = mid;
+      else start = mid + 1;
     }
-
     return start;
   }
 }
