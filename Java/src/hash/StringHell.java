@@ -53,15 +53,14 @@ class StringHell {
       }
     }
   }
-}
+  static class BFSState {
+    int x, y;
+    String str;
 
-class BFSState {
-  int x, y;
-  String str;
-
-  BFSState(int x, int y, String str) {
-    this.x = x;
-    this.y = y;
-    this.str = str;
+    BFSState(int x, int y, String str) {
+      this.x = x;
+      this.y = y;
+      this.str = str;
+    }
   }
 }
