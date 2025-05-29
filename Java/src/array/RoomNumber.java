@@ -13,6 +13,8 @@ public class RoomNumber {
 
     for(char c : sc.next().toCharArray()) {
       int value = map.get(c -'0') + 1;
+      if(value == 9) value = 6;
+
       map.put(c -'0', value);
     }
 
@@ -21,7 +23,6 @@ public class RoomNumber {
       int value = map.get(i);
 
       if(i == 6) {
-        value += map.get(9);
         if(value % 2 == 0) value /= 2;
         else {
          value /=2;

@@ -14,11 +14,11 @@ import java.io.*;
 
       int count = 0;
       for (int i = N - 2; i >= 0; i--) {
-        if (scores[i] >= scores[i + 1]) {
-          int newScore = scores[i + 1] - 1;
-          count += scores[i] - newScore;
-          scores[i] = newScore;
-        }
+        if(scores[i] < scores[i + 1]) continue;
+
+        int newScore = scores[i + 1] - 1;
+        count += scores[i] - newScore;
+        scores[i] = newScore;
       }
 
       System.out.println(count);

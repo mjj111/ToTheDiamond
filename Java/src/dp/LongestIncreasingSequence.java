@@ -26,7 +26,7 @@ public class LongestIncreasingSequence {
     int maxLength = 1;
 
     for (int i = 0; i < n; i++) {
-      dp[i] = 1; // Each element is a subsequence of length 1
+      dp[i] = 1; //본인의 길이 1
       for (int j = 0; j < i; j++) {
         if (nums[i] > nums[j]) {
           dp[i] = Math.max(dp[i], dp[j] + 1);

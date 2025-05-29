@@ -16,12 +16,12 @@ public class Flipping {
       char now = input.charAt(i);
       char next = input.charAt(i - 1);
 
+      if(now==next) continue;
+
       // 연속된 숫자가 바뀌는 순간
       // 새로운 그룹 시작
-      if (now != next) {
-        if (now == '0') count0++;
-        else count1++;
-      }
+      if (now == '0') count0++;
+      else count1++;
     }
 
     System.out.println(Math.min(count0, count1));
