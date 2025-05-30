@@ -69,11 +69,12 @@ public class MessTree {
         flip[next.edgeIdx] = false;
         dfs(next.nodeIdx, node, flipCnt - 1);
         flip[next.edgeIdx] = true;
-      } else {
-        flip[next.edgeIdx] = true;
-        dfs(next.nodeIdx, node, flipCnt + 1);
-        flip[next.edgeIdx] = false;
+        continue;
       }
+
+      flip[next.edgeIdx] = true;
+      dfs(next.nodeIdx, node, flipCnt + 1);
+      flip[next.edgeIdx] = false;
     }
   }
 }
