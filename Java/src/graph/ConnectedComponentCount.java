@@ -18,7 +18,7 @@ public class ConnectedComponentCount {
 
     ArrayList<Integer>[] edges = new ArrayList[NodeCount+1];
     for (int i = 0; i < NodeCount + 1; i++) {
-      edges[i] = new ArrayList<Integer>();
+      edges[i] = new ArrayList<>();
     }
 
     for(int i = 0; i < EdgeCount; i++) {
