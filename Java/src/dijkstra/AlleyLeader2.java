@@ -18,7 +18,7 @@ public class AlleyLeader2 {
     M = Integer.parseInt(st.nextToken());
     A = Integer.parseInt(st.nextToken());
     B = Integer.parseInt(st.nextToken());
-    C = Integer.parseInt(st.nextToken());
+    C = Long.parseLong(st.nextToken());
 
     dist = new long[N + 1];
     array = new ArrayList[N + 1];
@@ -30,7 +30,7 @@ public class AlleyLeader2 {
       int a = Integer.parseInt(st.nextToken());
       int b = Integer.parseInt(st.nextToken());
 
-      long c = Integer.parseInt(st.nextToken());
+      long c = Long.parseLong(st.nextToken());
       max = Math.max(max, c);
 
       array[a].add(new Edge(b,c));
