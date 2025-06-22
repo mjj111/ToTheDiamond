@@ -5,7 +5,7 @@ import java.util.*;
 
 public class NightLetter {
 
-  static final int INF = 1_000_000_007;
+  static final int INF = Integer.MAX_VALUE;
 
   public static void main(String[] args) throws IOException {
     StringBuilder sb = new StringBuilder();
