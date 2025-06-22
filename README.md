@@ -14,7 +14,6 @@
 ## [BinarySearch](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/binarysearch/이분탐색.md)
 ## [TwoPointer](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/twopointer/투포인터.md)
 ## [BinarySearchTree](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/bst/이진탐색트리.md)
-## [BinarySearchTree](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/bst/이진탐색트리.md)
 ## [MinimumSpanningTree](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/mst/최소신장트리.md)
 ## [Floyd](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/floyd/플로이드.md)
 ## [Dijkstra](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/dijkstra/다이젝스트라.md)

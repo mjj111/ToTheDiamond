@@ -1,18 +1,19 @@
 package mst;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class DivideVillages {
   static class Edge implements Comparable<Edge> {
-    int cost, from, to;
+    int from, to, cost;
 
-    Edge(int cost, int from, int to) {
-      this.cost = cost;
+    Edge(int from, int to, int cost) {
       this.from = from;
       this.to = to;
+      this.cost = cost;
     }
 
     @Override
@@ -21,54 +22,54 @@ public class DivideVillages {
     }
   }
 
+  static int[] parent;
+
+  static int find(int x) {
+    if (parent[x] == x) return x;
+    return parent[x] = find(parent[x]);
+  }
+
+  static void union(int a, int b) {
+    a = find(a);
+    b = find(b);
+    if (a != b) parent[b] = a;
+  }
+
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
-    int n = sc.nextInt();
-    int m = sc.nextInt();
+    int n = sc.nextInt(); // 정점 수
+    int m = sc.nextInt(); // 간선 수
 
-    List<List<int[]>> adj = new ArrayList<>();
-    for (int i = 0; i <= n; i++) {
-      adj.add(new ArrayList<>());
-    }
+    List<Edge> edges = new ArrayList<>();
 
     for (int i = 0; i < m; i++) {
       int a = sc.nextInt();
       int b = sc.nextInt();
       int c = sc.nextInt();
-      adj.get(a).add(new int[]{c, b});
-      adj.get(b).add(new int[]{c, a});
+      edges.add(new Edge(a, b, c));
     }
 
-    boolean[] visited = new boolean[n + 1];
-    PriorityQueue<Edge> pq = new PriorityQueue<>();
-    visited[1] = true;
+    // 간선 정렬
+    Collections.sort(edges);
 
-    for (int[] next : adj.get(1)) {
-      pq.add(new Edge(next[0], 1, next[1]));
-    }
+    parent = new int[n + 1];
+    for (int i = 1; i <= n; i++) parent[i] = i;
 
-    int cnt = 0, ans = 0, maxCost = 0;
+    int total = 0;
+    int maxCost = 0;
+    int count = 0;
 
-    while (cnt < n - 1 && !pq.isEmpty()) {
-      Edge edge = pq.poll();
-      int cost = edge.cost;
-      int b = edge.to;
-
-      if (visited[b]) continue;
-
-      visited[b] = true;
-      ans += cost;
-      maxCost = Math.max(maxCost, cost);
-      cnt++;
-
-      for (int[] next : adj.get(b)) {
-        if (!visited[next[1]]) {
-          pq.add(new Edge(next[0], b, next[1]));
-        }
+    for (Edge e : edges) {
+      if (find(e.from) != find(e.to)) {
+        union(e.from, e.to);
+        total += e.cost;
+        maxCost = e.cost; // 정렬된 순서이므로 마지막으로 연결된 간선이 가장 비쌈
+        count++;
+        if (count == n - 1) break;
       }
     }
 
-    System.out.println(ans - maxCost);
+    System.out.println(total - maxCost); // 가장 비싼 간선 제거하여 두 마을로 분리
   }
 }

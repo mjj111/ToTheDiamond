@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class ExploringSchool {
   static final int MX = 1000;
   static int[] p = new int[MX + 2];
-  static int n, m, ans = 0;
+  static int n, m = 0;
   static List<Edge> edges = new ArrayList<>();
 
   static class Edge implements Comparable<Edge> {
@@ -46,7 +46,7 @@ public class ExploringSchool {
     return true;
   }
 
-  static void solve(boolean isMaxCalc) {
+  static int solve(boolean isMaxCalc) {
     Arrays.fill(p, -1);
     int sum = 0, cnt = 0;
     for (Edge edge : edges) {
@@ -55,8 +55,9 @@ public class ExploringSchool {
       cnt++;
       if (cnt == n) break;
     }
-    if (isMaxCalc) ans += sum * sum;
-    else ans -= sum * sum;
+
+    if (isMaxCalc) return sum * sum;
+    return -1 * sum * sum;
   }
 
   public static void main(String[] args) {
@@ -71,12 +72,13 @@ public class ExploringSchool {
       edges.add(new Edge(cost == 0 ? 1 : 0, u, v));  // 0은 힘든 길로 바꿈
     }
 
+    int answer = 0;
     Collections.sort(edges);
-    solve(false);
+    answer += solve(false);
 
     Collections.sort(edges, Collections.reverseOrder());
-    solve(true);
+    answer += solve(true);
 
-    System.out.println(ans);
+    System.out.println(answer);
   }
 }
