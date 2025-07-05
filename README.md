@@ -11,7 +11,7 @@
 ## [DynamicPrograming-1](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/dp/다이나믹프로그래밍-1.md)
 ## [DynamicPrograming-2](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/dp_deepening/다이나믹프로그래밍-2.md)
 ## [Math](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/math/수학.md)
-## [BinarySearch](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/binarysearch/이진탐색.md)
+## [BinarySearch](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/binarysearch/이분탐색.md)
 ## [TwoPointer](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/twopointer/투포인터.md)
 ## [BinarySearchTree](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/bst/이진탐색트리.md)
 ## [MinimumSpanningTree](https://github.com/mjj111/ToTheDiamond/blob/main/Java/src/mst/최소신장트리.md)
